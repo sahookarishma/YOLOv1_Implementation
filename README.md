@@ -117,14 +117,3 @@ Install all dependencies with:
 ```bash
 pip install torch torchvision numpy matplotlib pandas tqdm
 ```
-
----
-
-## Notes
-- For GPU support, install the CUDA-enabled version of PyTorch if you have an NVIDIA GPU.
-- The code is for educational purposes and may require further tuning for large-scale or production use.
-
----
-
-## License
-MIT License
